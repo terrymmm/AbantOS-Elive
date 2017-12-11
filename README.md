@@ -667,6 +667,19 @@ If you like a specific animation and want to use the same animation for all appl
 
 
 ## Transitions
+### Transitions.
+Click on desktop. 
+click on transitions.
+A window will open with 3 options
+	Startup	
+	Desk Change
+	Background Change
+Each Option has three sub options
+	None
+	Crossfade
+	Vswipe
+To change an option click the option you want to change and click on your sub option then click apply.
+Then click close to close the window.
 
 ## Scaling
 
