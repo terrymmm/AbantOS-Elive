@@ -669,7 +669,17 @@ If you like a specific animation and want to use the same animation for all appl
 ## Transitions
 
 ## Scaling
-
+### Scaling
+Click on desktop.
+Click on settings.
+Click on scaling.
+**A window will open with two main options.**
+	-Policy 
+	-Constraints
+Click on policy choose custom scaling factor to size up or down.
+Slide button left or right to scale up or down.
+Default scale factor is 1.00x up to 8.00x.
+Click apply.
 ## Startup
 
 # Settings/Apps
