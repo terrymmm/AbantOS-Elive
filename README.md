@@ -656,9 +656,25 @@ If you like a specific animation and want to use the same animation for all appl
 
 ### 3.) Switchers:
 
+### Desktop:
+- Desktop contains four categories that will arrange icons and the look of your desktop.
 
+**Change Gadgets:**
 
-### 4.) Desktop:
+-Click on Desktop and choose Gadgets. Desktop Gadgets will pop up with a list of Loaded Gadgets. And Available Gadgets. Choose Add Gadget or Remove Gadget. The Gadget will appear on your desktop or dissapear.
+
+**Virtual:**
+
+-Click on Desktop and choose Virtual. You can choose your desktop or you can choose Set Virtual
+Desktops. If you click on Set Virtual Desktops you can change wallpapers or adjust animation speeds.
+
+**Shelves:**
+
+-Click on Desktop and choose Shelves. You can choose a shelf or add or delete a shelf.
+
+**Show/Hide All Windows:**
+
+-Click on Desktop and if you click on Show/Hide All Windows they will all hide or all appear.
 
 
 
