@@ -710,14 +710,63 @@ To remove applications Click on the desktop and then (Settings) this will open t
 # Settings/Screen
 
 ## Virtual Desktops
+**Virtual Desktops:**
+Click on the Desktop.
+Click on Settings.
+Click on All.
+Click on Screen
+Click on Virtual Desktops.
+-A window will pop up showing the number of Desktops you have.
+You can click on a desktop and change the name of it and apply animation.
+Click close and your settings will be applied.
 
 ## Screen Setup
-
+**Screen Setup:**
+Click on the Desktop.
+Click on Settings.
+Click on All.
+Click on Screen
+Click on Screen Setup.
+-A window will pop up with two choices for your screen.
+Choose one and click Apply.
+Click close and your settings will be applied.
 ## Screen Lock
+**Screen Lock:**
+Click on the Desktop.
+Click on Settings.
+Click on All.
+Click on Screen
+Click on Screen Lock Settings.
+-A window will pop up with two choices.
+Locking:
+You can choose Lock on Startup or Lock on Suspend or you can use a custom Screenlock Command.
+Keyboard Layout:
+Choose your keyboard layout.
+Click close and your settings will be applied.
 
 ## Blanking
+**Blanking:**
+Click on the Desktop.
+Click on Settings.
+Click on All.
+Click on Screen
+Click on Blanking.
+-A window will pop up with two choices.
+Blanking:
+You can choose Enable screen blanking and set the timeout up to 20 minutes.
+Presentation:
+You can select presentation mode.
+Click Apply and close and your settings will be applied.
 
 ## Backlight
+**Backlight:**
+Click on the Desktop.
+Click on Settings.
+Click on All.
+Click on Screen
+Click on Backlight.
+-A window will pop up that will allow to Dim the Backlight of the screen.
+Click Apply and close and your settings will be applied.
 
 
 # Settings/Windows
