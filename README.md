@@ -677,7 +677,15 @@ If you like a specific animation and want to use the same animation for all appl
 ## Personal Application Launchers
 
 ## Favorite Applications
-
+**Favorite Applications:**
+- To choose your favorite Appplications,
+Click on the desktop.
+Choose settings.
+Choose All.
+Choose Apps.
+Choose Favorite Applications.
+A window will pop up. You can choose your applications and the order in which they appear.
+Choose an Application. Click Add Then click the apply button. Then click the close button. Now when you right click on the desktop, your applications will appear in the order you have chosen them.
 ## IBar Applications
 
 **Changing Ibar Applications:**
